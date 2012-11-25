@@ -13,10 +13,10 @@ _date = '20100203'
 # License: This script doesn't require any license since it's not intended to be redistributed.
 #          In such case, unless stated otherwise, the purpose of the author is to follow GPLv3.
 # History: 
-#          0.0.2 (2010-02-03:19:00)
+#          0.0.2 (2010-02-03)
 #            -Fixed some bugs
 #            -Added loop-avoiding technique
-#          0.0.0 (2009-11-26:00:00)
+#          0.0.0 (2009-11-26)
 #            -Initial release
 ###############################################################################################
 
